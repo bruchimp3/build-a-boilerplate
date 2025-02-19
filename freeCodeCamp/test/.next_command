@@ -85,3 +85,4 @@ ls --color=auto
 rm image
 ls --color=auto
 cp header.png images
+cp footer.jpeg images
