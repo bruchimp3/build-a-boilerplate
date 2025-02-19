@@ -159,3 +159,4 @@ cd header.png website
 cd header.png ..
 mv header.png ..
 ls --color=auto
+cd ..
