@@ -175,3 +175,4 @@ rmdir images
 cd ..
 rmdir images
 ls --color=auto
+mkdir ./client/assets/icons
