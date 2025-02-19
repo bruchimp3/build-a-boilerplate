@@ -228,3 +228,4 @@ find toms-website
 ls --color=auto
 find website-boilerplate
 clear
+echo goodbye terminal
