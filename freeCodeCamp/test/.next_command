@@ -103,3 +103,5 @@ mkdir fonts
 ls --color=auto
 mv lato.ttf fonts
 mv roboto.woff fonts
+find website
+find
