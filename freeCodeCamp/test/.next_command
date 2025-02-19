@@ -42,3 +42,10 @@ cd website
 ls --color=auto
 echo hello website
 touch index.html
+mkdir style.css
+rm style.css
+delete style.css
+rm style.css
+ls --color=auto
+rmdir style.css
+touch styles.css
