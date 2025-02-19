@@ -51,3 +51,4 @@ rmdir style.css
 touch styles.css
 ls --color=auto
 touch index.js
+touch .gitignore
