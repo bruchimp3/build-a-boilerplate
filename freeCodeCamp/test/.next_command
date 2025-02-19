@@ -80,3 +80,8 @@ cd ..
 ls --color=auto
 rm background.jpg
 ls --color=auto
+cp header.png image
+ls --color=auto
+rm image
+ls --color=auto
+cp header.png images
