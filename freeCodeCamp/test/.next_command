@@ -181,3 +181,4 @@ ls --color=auto
 find -name CodeAlly.svg
 mv CodeAlly.svg ./client/assets/icons
 find
+mv CodeRoad.svg ./client/assets/icons
