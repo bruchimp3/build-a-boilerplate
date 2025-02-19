@@ -30,3 +30,4 @@ cd src
 pwd
 more pwd
 ls --color=auto
+more index.js
