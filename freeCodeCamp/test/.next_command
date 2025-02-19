@@ -105,3 +105,4 @@ mv lato.ttf fonts
 mv roboto.woff fonts
 find website
 find
+mv lato.ttf fonts
